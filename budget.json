@@ -1,32 +1,32 @@
-const budget = {
-    myBudget: [
     {
-        title: 'Eat out',
-        budget: 30
+        "myBudget": [
+    {
+        "title": "Eat out",
+        "budget": 30
     },
     {
-        title: 'Rent',
-        budget: 350
+        "title": "Rent",
+        "budget": 350
     },
     {
-        title: 'Groceries',
-        budget: 90
+        "title": "Groceries",
+        "budget": 90
     },
     {
-        title: 'Gas',
-        budget: 50
+        "title": "Gas",
+        "budget": 50
     },
     {
-        title: 'Dog Food',
-        budget: 50
+        "title": "Dog Food",
+        "budget": 50
     },
     {
-        title: 'Internet',
-        budget: 70
+        "title": "Internet",
+        "budget": 70
     },
     {
-        title: 'Car Insurance'
-        budget: 200
+        "title": "Car Insurance",
+        "budget": 100
     }
     ]
-};
+}
